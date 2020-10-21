@@ -1,0 +1,24 @@
+PODS:
+  - ABD (1.1.1):
+    - ABD/mbedtls (= 1.1.1)
+  - ABD/mbedtls (1.1.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - ABD
+  - YYKit
+
+SPEC REPOS:
+  http://gitlab.pab.com.cn/ARCH/share/CocoaPods/Specs.git:
+    - ABD
+    - YYKit
+
+SPEC CHECKSUMS:
+  ABD: b49532540327ec921d35a1782776d298f4c8a416
+  YYKit: 9c5fc3dc3b607d7bde682a75186bdc8b7d9824be
+
+PODFILE CHECKSUM: cd0762cfe583212beec7f375af550cac3cd7fa62
+
+COCOAPODS: 1.9.3
