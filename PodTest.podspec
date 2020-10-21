@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "PodTest"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of PodTest."
+  spec.summary      = "我爱你中华 亲爱的xxx"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -77,7 +77,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/SimonYHB/PodTest.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/SimonYHB/PodTest.git", :tag => spec.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
